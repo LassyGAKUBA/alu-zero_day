@@ -1,1 +1,1 @@
-JABO is intelligent.
+JABO is intelligen.
