@@ -1,1 +1,1 @@
-echo "you are stupid" 
+echo "My edited readme" 
