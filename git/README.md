@@ -1,1 +1,1 @@
-JABO is stupid .
+JABO is intelligent.
